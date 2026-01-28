@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
 ![Gurobi](https://img.shields.io/badge/Solver-Gurobi%209.5%2B-red)
-![License](https://img.shields.io/badge/license-MIT-green)
+[![license](https://img.shields.io/badge/license-apache_2.0-orange.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ## Authors
 
@@ -181,27 +181,10 @@ Under the `#------------OBJECTIVE PARAMS------------#` section, you can adjust t
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the Apache License 2.0.
 
 Copyright (c) 2026 Tommaso Aldinucci.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE
 ---
 
 ## References
