@@ -1,8 +1,8 @@
 # A Mixed-Integer Programming Model for Sustainable Textile Repair Operations
 
-![Python](https://img.shields.io/badge/python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white)
-![Gurobi](https://img.shields.io/badge/Solver-Gurobi%209.5%2B-red?style=for-the-badge)
-![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
+![Python](https://img.shields.io/badge/python-3.8%2B-blue)
+![Gurobi](https://img.shields.io/badge/Solver-Gurobi%209.5%2B-red)
+![License](https://img.shields.io/badge/license-MIT-green)
 
 ## Authors
 
