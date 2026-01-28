@@ -692,7 +692,7 @@ def create_interactive_dashboard(model, preprocessor, output_file="scheduling_da
                      margin: 0; 
                      padding: 0; 
                      background: #000000; 
-                     color: #ffffff;">''' + stats_html + body_content
+                     color: #ffffff;">''' + gif_html + body_content.replace('</body>', stats_html + '</body>')
     
     # Write to file
     with open(output_file, 'w', encoding='utf-8') as f:
