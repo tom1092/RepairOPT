@@ -152,7 +152,7 @@ The `scheduling_results.csv` file contains the following fields:
 
 ---
 
-## Personalizations
+## Customization
 
 You can customize the optimization parameters and objective function weights by modifying the `utils/preproc.py` file. Look for the following tagged sections:
 
