@@ -352,7 +352,7 @@ def create_interactive_dashboard(model, preprocessor, output_file="scheduling_da
             'Basket Status',
             'Batch Shipments'
         ),
-        vertical_spacing=0.15,
+        vertical_spacing=0.12,
         specs=[[{"type": "bar"}], [{"type": "bar"}]]
     )
     
@@ -388,6 +388,7 @@ def create_interactive_dashboard(model, preprocessor, output_file="scheduling_da
                 marker=dict(color=colors[str(r)], line=dict(color='black', width=1)),
                 text=[str(level) if level > 0 and day <= current_day else '' for day, level in enumerate(basket_levels)],
                 textposition='outside',
+                legendgroup=repairer_name,
                 showlegend=True,
                 hoverinfo='none'
             )
@@ -436,7 +437,7 @@ def create_interactive_dashboard(model, preprocessor, output_file="scheduling_da
                 text=[str(level) if level > 0 and day <= current_day else '' for day, level in enumerate(basket_levels)],
                 textposition='outside',
                 legendgroup=repairer_name,
-                showlegend=True if current_day == 0 else False,
+                showlegend=True,
                 hoverinfo='none'
             )
             frame_data_b.append(basket_trace)
@@ -480,16 +481,16 @@ def create_interactive_dashboard(model, preprocessor, output_file="scheduling_da
             'xanchor': 'center',
             'font': {'size': 24, 'color': '#ffffff', 'family': '-apple-system, BlinkMacSystemFont, Segoe UI, Roboto'}
         },
-        height=1000,
+        height=750,
         paper_bgcolor='#000000',
         plot_bgcolor='#000000',
-        margin=dict(t=120, b=80, l=60, r=60),
+        margin=dict(t=100, b=80, l=60, r=60),
         showlegend=True,
         font=dict(color='#ffffff', family='-apple-system, BlinkMacSystemFont, Segoe UI, Roboto'),
         legend=dict(
             orientation="h",
-            yanchor="top",
-            y=0.98,
+            yanchor="bottom",
+            y=1.02,
             xanchor="center",
             x=0.5,
             bgcolor='rgba(0,0,0,0.5)',

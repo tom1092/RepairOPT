@@ -229,20 +229,20 @@ class DataPreprocessor:
         sigma_dpr = {}
         for p in P:
             for d in D_p.get(p, []):
-                sigma_dpr[d, p, 0] = 0.08  # 8% degradation for Arte del Rammendo
-                sigma_dpr[d, p, 1] = 0.05  # 5% degradation for Nicole
+                sigma_dpr[d, p, 0] = 0.08  # 8% degradation for Repairer 1
+                sigma_dpr[d, p, 1] = 0.05  # 5% degradation for Repairer 2
 
         # Unit repair cost
         chi_dpr_r = {}
         for p in P:
             for d in D_p.get(p, []):
-                #Base cost for Nicole sampled from a normal distribution with mean 10 and std 2
+                #Base cost for Repairer 2 sampled from a normal distribution with mean 10 and std 2
                 chi_dpr_r[d, p, 1] = np.random.normal(10, 2)
-                #Arte del rammendo is Nicole plus uniform int in (2, 10)
+                #Repairer 1 is Repairer 2 plus uniform int in (2, 10)
                 chi_dpr_r[d, p, 0] = chi_dpr_r[d, p, 1] + randint(2, 10)
         
         # Carbon emissions per batch
-        pi_r = {0: 8, 1: 1.360} #8000 g/round trip arte del rammendo, 1360 g/round trip nicole
+        pi_r = {0: 8, 1: 1.360} #8000 g/round trip Repairer 1, 1360 g/round trip Repairer 2
         
 
         #------------OBJECTIVE PARAMS------------#
