@@ -488,11 +488,11 @@ def create_interactive_dashboard(model, preprocessor, output_file="scheduling_da
         showlegend=True,
         font=dict(color='#ffffff', family='-apple-system, BlinkMacSystemFont, Segoe UI, Roboto'),
         legend=dict(
-            orientation="h",
-            yanchor="bottom",
-            y=1.02,
-            xanchor="center",
-            x=0.5,
+            orientation="v",
+            yanchor="top",
+            y=1,
+            xanchor="right",
+            x=1,
             bgcolor='rgba(0,0,0,0.5)',
             bordercolor='#333',
             borderwidth=1
@@ -529,7 +529,7 @@ def create_interactive_dashboard(model, preprocessor, output_file="scheduling_da
     )
     
     # Update axes - Black theme with fixed Y ranges
-    fig.update_xaxes(title_text="Day of Week", row=1, col=1, gridcolor='#1a1a1a', gridwidth=0.5, color='#ffffff', fixedrange=True, showline=True, linewidth=1, linecolor='#333')
+    fig.update_xaxes(title_text="", row=1, col=1, gridcolor='#1a1a1a', gridwidth=0.5, color='#ffffff', fixedrange=True, showline=True, linewidth=1, linecolor='#333')
     fig.update_xaxes(title_text="Day of Week", row=2, col=1, gridcolor='#1a1a1a', gridwidth=0.5, color='#ffffff', fixedrange=True, showline=True, linewidth=1, linecolor='#333')
     
     fig.update_yaxes(title_text="Basket Size", row=1, col=1, gridcolor='#1a1a1a', gridwidth=0.5, color='#ffffff', fixedrange=True, showline=True, linewidth=1, linecolor='#333', range=[0, 30])
