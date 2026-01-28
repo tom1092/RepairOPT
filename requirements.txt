@@ -1,0 +1,6 @@
+gurobipy
+plotly
+pandas
+numpy
+matplotlib
+pillow

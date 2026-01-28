@@ -1,0 +1,12 @@
+id,description
+0,HoleLessThan1cm
+1,Hole1To2cm
+2,HoleGreaterThan2cm
+3,Ladder
+4,MultipleHoles
+5,SeamUnstitched
+6,ArmpitDamage
+7,CollarWear
+8,PulledThread
+9,Pilling
+10,CuffHemRepair

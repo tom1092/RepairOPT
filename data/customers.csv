@@ -1,0 +1,11 @@
+id,firstName,lastName,email,phone,address,city,country,registrationDate,customerStatus
+0,John,Smith,john.smith@example.com,+15551234567,10 Main St,New York,USA,2023-01-15,Active
+1,Emily,Jones,emily.jones@example.com,+442012345678,5 Oak Rd,London,UK,2023-03-22,Active
+2,Pierre,Dubois,pierre.dubois@example.com,+33612345678,25 Rue de la Paix,Paris,France,2023-05-01,VIP
+3,Maria,Garcia,maria.garcia@example.com,+34910001122,Calle del Sol 8,Madrid,Spain,2023-08-10,Inactive
+4,Kenji,Tanaka,kenji.tanaka@example.com,+81398765432,1-1 Ginza,Tokyo,Japan,2024-01-05,Active
+5,Luca,Ricci,luca.ricci@example.com,+390299887766,Via Dante 5,Milano,Italy,2024-02-14,Active
+6,Chloe,Brown,chloe.brown@example.com,+61234567890,12 Elm St,Sydney,Australia,2024-03-01,Active
+7,Ahmed,Khan,ahmed.khan@example.com,+971501122334,Sheikh Zayed Rd,Dubai,UAE,2024-04-19,VIP
+8,Sofia,Muller,sofia.muller@example.com,+493055443322,Unter den Linden 1,Berlin,Germany,2024-05-25,Inactive
+9,David,Lee,david.lee@example.com,+861066778899,Wangfujing St,Beijing,China,2024-06-30,Active

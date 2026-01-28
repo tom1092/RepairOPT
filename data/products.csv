@@ -1,0 +1,119 @@
+id,category,size,color,composition,description
+0,Sweater,XXL,white,100% cotton,High-quality sweater with a comfortable fit.
+1,Trousers,S,grey,80% wool 20% nylon,High-quality trousers with a comfortable fit.
+2,Sweater,M,beige,100% wool,High-quality sweater with a comfortable fit.
+3,Sweater,XXL,blue,50% cotton 50% polyester,High-quality sweater with a comfortable fit.
+4,Sweater,M,navy,80% wool 20% nylon,High-quality sweater with a comfortable fit.
+5,Cardigan,M,navy,50% cotton 50% polyester,High-quality cardigan with a comfortable fit.
+6,Sweater,S,beige,100% acrylic,High-quality sweater with a comfortable fit.
+7,Sweater,XXL,black,100% wool,High-quality sweater with a comfortable fit.
+8,Sweater,XXL,white,50% cotton 50% polyester,High-quality sweater with a comfortable fit.
+9,Cardigan,L,beige,100% cotton,High-quality cardigan with a comfortable fit.
+10,Sweater,XL,grey,50% cotton 50% polyester,High-quality sweater with a comfortable fit.
+11,Cardigan,S,black,100% acrylic,High-quality cardigan with a comfortable fit.
+12,Sweater,L,white,80% wool 20% nylon,High-quality sweater with a comfortable fit.
+13,Sweater,L,blue,100% acrylic,High-quality sweater with a comfortable fit.
+14,Cardigan,XL,red,100% wool,High-quality cardigan with a comfortable fit.
+15,Sweater,M,navy,80% wool 20% nylon,High-quality sweater with a comfortable fit.
+16,Sweater,S,white,100% wool,High-quality sweater with a comfortable fit.
+17,Sweater,M,grey,80% wool 20% nylon,High-quality sweater with a comfortable fit.
+18,Sweater,XXL,white,100% acrylic,High-quality sweater with a comfortable fit.
+19,Cardigan,L,black,100% cotton,High-quality cardigan with a comfortable fit.
+20,Sweater,XL,beige,50% cotton 50% polyester,High-quality sweater with a comfortable fit.
+21,Sweater,XXL,navy,100% acrylic,High-quality sweater with a comfortable fit.
+22,Sweater,M,white,100% wool,High-quality sweater with a comfortable fit.
+23,Cardigan,L,red,80% wool 20% nylon,High-quality cardigan with a comfortable fit.
+24,Sweater,S,black,100% acrylic,High-quality sweater with a comfortable fit.
+25,Sweater,XL,navy,50% cotton 50% polyester,High-quality sweater with a comfortable fit.
+26,Sweater,L,grey,100% wool,High-quality sweater with a comfortable fit.
+27,Cardigan,M,blue,80% wool 20% nylon,High-quality cardigan with a comfortable fit.
+28,Sweater,S,white,100% wool,High-quality sweater with a comfortable fit.
+29,Sweater,XL,black,100% acrylic,High-quality sweater with a comfortable fit.
+30,Sweater,L,beige,50% cotton 50% polyester,High-quality sweater with a comfortable fit.
+31,Cardigan,M,red,100% cotton,High-quality cardigan with a comfortable fit.
+32,Sweater,XL,navy,80% wool 20% nylon,High-quality sweater with a comfortable fit.
+33,Sweater,M,white,100% wool,High-quality sweater with a comfortable fit.
+34,Sweater,L,blue,80% wool 20% nylon,High-quality sweater with a comfortable fit.
+35,Cardigan,S,grey,100% acrylic,High-quality cardigan with a comfortable fit.
+36,Sweater,M,white,50% cotton 50% polyester,High-quality sweater with a comfortable fit.
+37,Sweater,XL,black,100% wool,High-quality sweater with a comfortable fit.
+38,Sweater,L,navy,100% acrylic,High-quality sweater with a comfortable fit.
+39,Cardigan,M,beige,50% cotton 50% polyester,High-quality cardigan with a comfortable fit.
+40,Sweater,S,white,100% wool,High-quality sweater with a comfortable fit.
+41,Sweater,XXL,black,80% wool 20% nylon,High-quality sweater with a comfortable fit.
+42,Sweater,L,grey,100% acrylic,High-quality sweater with a comfortable fit.
+43,Cardigan,XL,blue,100% cotton,High-quality cardigan with a comfortable fit.
+44,Sweater,M,white,80% wool 20% nylon,High-quality sweater with a comfortable fit.
+45,Sweater,S,navy,100% wool,High-quality sweater with a comfortable fit.
+46,Sweater,XXL,grey,50% cotton 50% polyester,High-quality sweater with a comfortable fit.
+47,Cardigan,L,black,100% acrylic,High-quality cardigan with a comfortable fit.
+48,Sweater,XL,beige,100% cotton,High-quality sweater with a comfortable fit.
+49,Sweater,M,navy,80% wool 20% nylon,High-quality sweater with a comfortable fit.
+50,Sweater,S,white,100% acrylic,High-quality sweater with a comfortable fit.
+51,Cardigan,XXL,black,50% cotton 50% polyester,High-quality cardigan with a comfortable fit.
+52,Sweater,L,grey,100% wool,High-quality sweater with a comfortable fit.
+53,Sweater,XL,blue,80% wool 20% nylon,High-quality sweater with a comfortable fit.
+54,Sweater,M,white,100% acrylic,High-quality sweater with a comfortable fit.
+55,Cardigan,S,navy,100% wool,High-quality cardigan with a comfortable fit.
+56,Sweater,XXL,grey,50% cotton 50% polyester,High-quality sweater with a comfortable fit.
+57,Sweater,L,black,100% acrylic,High-quality sweater with a comfortable fit.
+58,Cardigan,M,beige,100% cotton,High-quality cardigan with a comfortable fit.
+59,Sweater,XL,white,80% wool 20% nylon,High-quality sweater with a comfortable fit.
+60,Sweater,S,navy,100% wool,High-quality sweater with a comfortable fit.
+61,Sweater,XXL,grey,80% wool 20% nylon,High-quality sweater with a comfortable fit.
+62,Cardigan,L,blue,100% acrylic,High-quality cardigan with a comfortable fit.
+63,Sweater,M,white,100% wool,High-quality sweater with a comfortable fit.
+64,Sweater,XL,black,50% cotton 50% polyester,High-quality sweater with a comfortable fit.
+65,Cardigan,XXL,red,100% acrylic,High-quality cardigan with a comfortable fit.
+66,Sweater,L,navy,100% cotton,High-quality sweater with a comfortable fit.
+67,Sweater,M,white,80% wool 20% nylon,High-quality sweater with a comfortable fit.
+68,Sweater,S,grey,100% wool,High-quality sweater with a comfortable fit.
+69,Cardigan,XL,blue,50% cotton 50% polyester,High-quality cardigan with a comfortable fit.
+70,Sweater,L,black,100% acrylic,High-quality sweater with a comfortable fit.
+71,Sweater,XXL,white,100% cotton,High-quality sweater with a comfortable fit.
+72,Cardigan,M,red,80% wool 20% nylon,High-quality cardigan with a comfortable fit.
+73,Sweater,XL,navy,100% wool,High-quality sweater with a comfortable fit.
+74,Sweater,L,white,100% acrylic,High-quality sweater with a comfortable fit.
+75,Sweater,M,grey,50% cotton 50% polyester,High-quality sweater with a comfortable fit.
+76,Cardigan,S,black,100% wool,High-quality cardigan with a comfortable fit.
+77,Sweater,XXL,beige,100% acrylic,High-quality sweater with a comfortable fit.
+78,Sweater,L,navy,80% wool 20% nylon,High-quality sweater with a comfortable fit.
+79,Sweater,XL,white,100% cotton,High-quality sweater with a comfortable fit.
+80,Cardigan,M,red,50% cotton 50% polyester,High-quality cardigan with a comfortable fit.
+81,Sweater,L,navy,100% wool,High-quality sweater with a comfortable fit.
+82,Sweater,S,white,80% wool 20% nylon,High-quality sweater with a comfortable fit.
+83,Sweater,XXL,grey,100% acrylic,High-quality sweater with a comfortable fit.
+84,Cardigan,XL,blue,100% wool,High-quality cardigan with a comfortable fit.
+85,Sweater,M,white,50% cotton 50% polyester,High-quality sweater with a comfortable fit.
+86,Sweater,L,black,100% acrylic,High-quality sweater with a comfortable fit.
+87,Sweater,XXL,beige,100% cotton,High-quality sweater with a comfortable fit.
+88,Cardigan,M,navy,80% wool 20% nylon,High-quality cardigan with a comfortable fit.
+89,Sweater,L,white,100% wool,High-quality sweater with a comfortable fit.
+90,Sweater,S,grey,100% acrylic,High-quality sweater with a comfortable fit.
+91,Cardigan,XL,black,50% cotton 50% polyester,High-quality cardigan with a comfortable fit.
+92,Sweater,M,beige,100% wool,High-quality sweater with a comfortable fit.
+93,Sweater,XXL,navy,80% wool 20% nylon,High-quality sweater with a comfortable fit.
+94,Sweater,L,white,100% acrylic,High-quality sweater with a comfortable fit.
+95,Cardigan,S,red,100% wool,High-quality cardigan with a comfortable fit.
+96,Sweater,M,black,50% cotton 50% polyester,High-quality sweater with a comfortable fit.
+97,Sweater,XL,beige,100% acrylic,High-quality sweater with a comfortable fit.
+98,Sweater,L,navy,80% wool 20% nylon,High-quality sweater with a comfortable fit.
+99,Cardigan,M,white,100% cotton,High-quality cardigan with a comfortable fit.
+100,Sweater,S,grey,100% wool,High-quality sweater with a comfortable fit.
+101,Sweater,XXL,blue,100% acrylic,High-quality sweater with a comfortable fit.
+102,Cardigan,L,black,50% cotton 50% polyester,High-quality cardigan with a comfortable fit.
+103,Sweater,M,red,100% wool,High-quality sweater with a comfortable fit.
+104,Sweater,XL,navy,80% wool 20% nylon,High-quality sweater with a comfortable fit.
+105,Cardigan,L,red,100% wool,High-quality cardigan with a comfortable fit.
+106,Sweater,L,red,80% wool 20% nylon,High-quality sweater with a comfortable fit.
+107,Sweater,L,brown,80% wool 20% nylon,High-quality sweater with a comfortable fit.
+108,Vest,XXL,black,100% acrylic,High-quality vest with a comfortable fit.
+109,Sweater,XL,white,80% wool 20% nylon,High-quality sweater with a comfortable fit.
+110,Cardigan,XXL,navy,80% wool 20% nylon,High-quality cardigan with a comfortable fit.
+111,Coat,XL,black,100% acrylic,High-quality coat with a comfortable fit.
+112,Sweater,M,blue,100% acrylic,High-quality sweater with a comfortable fit.
+113,Sweater,S,white,50% cotton 50% polyester,High-quality sweater with a comfortable fit.
+114,Sweater,XL,navy,100% wool,High-quality sweater with a comfortable fit.
+115,Sweater,M,grey,100% wool,High-quality sweater with a comfortable fit.
+116,Cardigan,XL,black,100% cotton,High-quality cardigan with a comfortable fit.
+117,Sweater,L,blue,100% wool,High-quality sweater with a comfortable fit.

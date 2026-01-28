@@ -1,0 +1,119 @@
+Product ID,Product Category,Product Color,Assigned Repairer,Repairer Name,Repair Cost (€),Quality Drop (%),Emissions (g CO2),Time in Stock (days),Shipping Day,Lead Time (days),Return Day
+0,Sweater,white,1,Nicole,10.99,5.00,1.36,5.0,0,11.0,6
+1,Trousers,grey,0,Arte Del Rammendo,11.72,8.00,8.00,0.0,2,14.0,14
+2,Sweater,beige,0,Arte Del Rammendo,16.30,8.00,8.00,0.0,3,15.0,15
+3,Sweater,blue,1,Nicole,13.05,5.00,1.36,5.0,2,13.0,8
+4,Sweater,navy,0,Arte Del Rammendo,16.53,8.00,8.00,2.0,0,14.0,12
+5,Cardigan,navy,1,Nicole,9.53,5.00,1.36,1.0,3,10.0,9
+6,Sweater,beige,0,Arte Del Rammendo,19.16,8.00,8.00,1.0,2,15.0,14
+7,Sweater,black,0,Arte Del Rammendo,14.53,8.00,8.00,1.0,2,15.0,14
+8,Sweater,white,1,Nicole,9.06,5.00,1.36,5.0,4,15.0,10
+9,Cardigan,beige,0,Arte Del Rammendo,18.09,8.00,8.00,0.0,3,15.0,15
+10,Sweater,grey,1,Nicole,9.07,5.00,1.36,5.0,3,14.0,9
+11,Cardigan,black,1,Nicole,9.07,5.00,1.36,5.0,2,13.0,8
+12,Sweater,white,1,Nicole,10.48,5.00,1.36,4.0,4,14.0,10
+13,Sweater,blue,1,Nicole,6.17,5.00,1.36,0.0,3,9.0,9
+14,Cardigan,red,1,Nicole,6.55,5.00,1.36,4.0,5,15.0,11
+15,Sweater,navy,0,Arte Del Rammendo,14.88,8.00,8.00,3.0,0,15.0,12
+16,Sweater,white,0,Arte Del Rammendo,11.97,8.00,8.00,0.0,3,15.0,15
+17,Sweater,grey,0,Arte Del Rammendo,15.63,8.00,8.00,0.0,2,14.0,14
+18,Sweater,white,1,Nicole,8.18,5.00,1.36,0.0,6,12.0,12
+19,Cardigan,black,1,Nicole,7.18,5.00,1.36,1.0,-1,0.0,5
+20,Sweater,beige,0,Arte Del Rammendo,18.93,8.00,8.00,1.0,2,15.0,14
+21,Sweater,navy,1,Nicole,9.55,5.00,1.36,4.0,1,11.0,7
+22,Sweater,white,1,Nicole,10.14,5.00,1.36,4.0,2,12.0,8
+23,Cardigan,red,0,Arte Del Rammendo,14.15,8.00,8.00,0.0,2,14.0,14
+24,Sweater,black,1,Nicole,8.91,5.00,1.36,4.0,4,14.0,10
+25,Sweater,navy,0,Arte Del Rammendo,14.22,8.00,8.00,1.0,2,15.0,14
+26,Sweater,grey,1,Nicole,7.70,5.00,1.36,5.0,3,14.0,9
+27,Cardigan,blue,1,Nicole,10.75,5.00,1.36,5.0,0,11.0,6
+28,Sweater,white,1,Nicole,8.80,5.00,1.36,5.0,3,14.0,9
+29,Sweater,black,1,Nicole,9.42,5.00,1.36,4.0,5,15.0,11
+30,Sweater,beige,0,Arte Del Rammendo,11.80,8.00,8.00,3.0,0,15.0,12
+31,Cardigan,red,0,Arte Del Rammendo,17.70,8.00,8.00,1.0,2,15.0,14
+32,Sweater,navy,0,Arte Del Rammendo,13.97,8.00,8.00,3.0,0,15.0,12
+33,Sweater,white,1,Nicole,7.88,5.00,1.36,4.0,4,14.0,10
+34,Sweater,blue,0,Arte Del Rammendo,14.65,8.00,8.00,2.0,0,14.0,12
+35,Cardigan,grey,1,Nicole,7.56,5.00,1.36,6.0,1,13.0,7
+36,Sweater,white,1,Nicole,10.42,5.00,1.36,6.0,1,13.0,7
+37,Sweater,black,1,Nicole,6.08,5.00,1.36,0.0,6,12.0,12
+38,Sweater,navy,1,Nicole,7.34,5.00,1.36,6.0,1,13.0,7
+39,Cardigan,beige,1,Nicole,10.39,5.00,1.36,6.0,1,13.0,7
+40,Sweater,white,1,Nicole,11.48,5.00,1.36,1.0,3,10.0,9
+41,Sweater,black,1,Nicole,10.34,5.00,1.36,5.0,4,15.0,10
+42,Sweater,grey,0,Arte Del Rammendo,12.77,8.00,8.00,3.0,0,15.0,12
+43,Cardigan,blue,1,Nicole,9.40,5.00,1.36,2.0,-1,0.0,5
+44,Sweater,white,0,Arte Del Rammendo,13.04,8.00,8.00,2.0,0,14.0,12
+45,Sweater,navy,0,Arte Del Rammendo,15.56,8.00,8.00,1.0,2,15.0,14
+46,Sweater,grey,0,Arte Del Rammendo,12.08,8.00,8.00,1.0,2,15.0,14
+47,Cardigan,black,1,Nicole,12.11,5.00,1.36,6.0,1,13.0,7
+48,Sweater,beige,0,Arte Del Rammendo,18.69,8.00,8.00,2.0,0,14.0,12
+49,Sweater,navy,0,Arte Del Rammendo,10.47,8.00,8.00,0.0,2,14.0,14
+50,Sweater,white,1,Nicole,10.65,5.00,1.36,0.0,6,12.0,12
+51,Cardigan,black,0,Arte Del Rammendo,11.23,8.00,8.00,3.0,0,15.0,12
+52,Sweater,grey,0,Arte Del Rammendo,14.65,8.00,8.00,0.0,2,14.0,14
+53,Sweater,blue,1,Nicole,11.22,5.00,1.36,2.0,-1,0.0,5
+54,Sweater,white,1,Nicole,12.06,5.00,1.36,6.0,2,14.0,8
+55,Cardigan,navy,1,Nicole,11.86,5.00,1.36,2.0,6,14.0,12
+56,Sweater,grey,1,Nicole,8.32,5.00,1.36,4.0,5,15.0,11
+57,Sweater,black,0,Arte Del Rammendo,15.38,8.00,8.00,2.0,1,15.0,13
+58,Cardigan,beige,1,Nicole,10.66,5.00,1.36,6.0,1,13.0,7
+59,Sweater,white,0,Arte Del Rammendo,16.95,8.00,8.00,0.0,1,13.0,13
+60,Sweater,navy,1,Nicole,9.04,5.00,1.36,5.0,4,15.0,10
+61,Sweater,grey,0,Arte Del Rammendo,16.63,8.00,8.00,3.0,0,15.0,12
+62,Cardigan,blue,1,Nicole,7.79,5.00,1.36,4.0,5,15.0,11
+63,Sweater,white,1,Nicole,7.61,5.00,1.36,0.0,6,12.0,12
+64,Sweater,black,1,Nicole,11.63,5.00,1.36,3.0,6,15.0,12
+65,Cardigan,red,0,Arte Del Rammendo,14.71,8.00,8.00,0.0,1,13.0,13
+66,Sweater,navy,1,Nicole,9.86,5.00,1.36,4.0,5,15.0,11
+67,Sweater,white,1,Nicole,12.01,5.00,1.36,2.0,-1,0.0,5
+68,Sweater,grey,1,Nicole,10.72,5.00,1.36,6.0,2,14.0,8
+69,Cardigan,blue,1,Nicole,8.71,5.00,1.36,5.0,0,11.0,6
+70,Sweater,black,1,Nicole,10.72,5.00,1.36,4.0,2,12.0,8
+71,Sweater,white,1,Nicole,13.08,5.00,1.36,6.0,2,14.0,8
+72,Cardigan,red,0,Arte Del Rammendo,14.93,8.00,8.00,2.0,1,15.0,13
+73,Sweater,navy,1,Nicole,13.13,5.00,1.36,4.0,5,15.0,11
+74,Sweater,white,0,Arte Del Rammendo,9.76,8.00,8.00,1.0,2,15.0,14
+75,Sweater,grey,1,Nicole,11.64,5.00,1.36,5.0,0,11.0,6
+76,Cardigan,black,0,Arte Del Rammendo,13.17,8.00,8.00,0.0,1,13.0,13
+77,Sweater,beige,1,Nicole,9.40,5.00,1.36,0.0,6,12.0,12
+78,Sweater,navy,1,Nicole,10.18,5.00,1.36,5.0,0,11.0,6
+79,Sweater,white,1,Nicole,6.02,5.00,1.36,1.0,-1,0.0,5
+80,Cardigan,red,1,Nicole,9.56,5.00,1.36,6.0,2,14.0,8
+81,Sweater,navy,0,Arte Del Rammendo,14.71,8.00,8.00,2.0,1,15.0,13
+82,Sweater,white,1,Nicole,12.96,5.00,1.36,0.0,6,12.0,12
+83,Sweater,grey,1,Nicole,8.96,5.00,1.36,6.0,3,15.0,9
+84,Cardigan,blue,0,Arte Del Rammendo,12.38,8.00,8.00,1.0,1,14.0,13
+85,Sweater,white,1,Nicole,9.00,5.00,1.36,6.0,1,13.0,7
+86,Sweater,black,1,Nicole,11.83,5.00,1.36,0.0,-1,0.0,5
+87,Sweater,beige,0,Arte Del Rammendo,18.66,8.00,8.00,3.0,0,15.0,12
+88,Cardigan,navy,0,Arte Del Rammendo,13.94,8.00,8.00,2.0,1,15.0,13
+89,Sweater,white,1,Nicole,11.03,5.00,1.36,3.0,6,15.0,12
+90,Sweater,grey,1,Nicole,10.19,5.00,1.36,5.0,4,15.0,10
+91,Cardigan,black,1,Nicole,11.94,5.00,1.36,6.0,1,13.0,7
+92,Sweater,beige,0,Arte Del Rammendo,16.60,8.00,8.00,2.0,1,15.0,13
+93,Sweater,navy,0,Arte Del Rammendo,16.34,8.00,8.00,1.0,1,14.0,13
+94,Sweater,white,1,Nicole,9.22,5.00,1.36,2.0,-1,0.0,5
+95,Cardigan,red,1,Nicole,7.07,5.00,1.36,2.0,-1,0.0,5
+96,Sweater,black,1,Nicole,10.59,5.00,1.36,1.0,-1,0.0,5
+97,Sweater,beige,1,Nicole,10.52,5.00,1.36,5.0,0,11.0,6
+98,Sweater,navy,0,Arte Del Rammendo,15.01,8.00,8.00,2.0,1,15.0,13
+99,Cardigan,white,1,Nicole,9.53,5.00,1.36,5.0,4,15.0,10
+100,Sweater,grey,1,Nicole,7.17,5.00,1.36,5.0,0,11.0,6
+101,Sweater,blue,1,Nicole,9.16,5.00,1.36,5.0,0,11.0,6
+102,Cardigan,black,0,Arte Del Rammendo,11.31,8.00,8.00,0.0,1,13.0,13
+103,Sweater,red,1,Nicole,8.40,5.00,1.36,4.0,5,15.0,11
+104,Sweater,navy,1,Nicole,9.68,5.00,1.36,5.0,4,15.0,10
+105,Cardigan,red,0,Arte Del Rammendo,15.81,8.00,8.00,1.0,1,14.0,13
+106,Sweater,red,1,Nicole,13.77,5.00,1.36,4.0,5,15.0,11
+107,Sweater,brown,1,Nicole,10.35,5.00,1.36,5.0,3,14.0,9
+108,Vest,black,0,Arte Del Rammendo,12.52,8.00,8.00,1.0,2,15.0,14
+109,Sweater,white,0,Arte Del Rammendo,14.85,8.00,8.00,1.0,1,14.0,13
+110,Cardigan,navy,0,Arte Del Rammendo,9.16,8.00,8.00,3.0,0,15.0,12
+111,Coat,black,0,Arte Del Rammendo,11.95,8.00,8.00,3.0,0,15.0,12
+112,Sweater,blue,0,Arte Del Rammendo,17.12,8.00,8.00,2.0,1,15.0,13
+113,Sweater,white,1,Nicole,14.93,5.00,1.36,5.0,3,14.0,9
+114,Sweater,navy,1,Nicole,9.62,5.00,1.36,5.0,2,13.0,8
+115,Sweater,grey,1,Nicole,10.60,5.00,1.36,4.0,5,15.0,11
+116,Cardigan,black,0,Arte Del Rammendo,15.93,8.00,8.00,1.0,2,15.0,14
+117,Sweater,blue,1,Nicole,7.66,5.00,1.36,5.0,0,11.0,6
