@@ -98,7 +98,7 @@ Generate scheduling results and visualization:
 Output files:
 
 - `scheduling_results.csv` - Detailed scheduling table
-- `scheduling_dashboard.html` - interactive HTML dashboard with temporal controls and statistics:
+- `scheduling_dashboard.html` - interactive HTML dashboard with temporal controls and statistics [**SEE HERE A PREVIEW**](/scheduling_dashboard.html)
 
 ## Repository Structure
 
